@@ -111,6 +111,7 @@ section{
 @media screen and (max-width:690px){
    .section-center article {
       height: 435px;
+      background: red;
    }
 }
 .section-center article .card{
