@@ -110,7 +110,7 @@ section{
 }
 @media screen and (max-width:690px){
    .section-center article {
-      height: 505px;
+      height: 525px;
    }
 }
 .section-center article .card{
@@ -201,10 +201,5 @@ section{
    text-align: left;
    border-bottom: 1px solid rgb(206, 145, 120);
 }
-@media screen and (max-width:690px) {
-   .details {
-      height: 505px;
-      row-gap: 14px;
-   }
-}
+
 
