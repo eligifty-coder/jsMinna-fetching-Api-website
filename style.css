@@ -110,7 +110,7 @@ section{
 }
 @media screen and (max-width:690px){
    .section-center article {
-      height: 525px;
+      height: 545px;
    }
 }
 .section-center article .card{
@@ -194,6 +194,7 @@ section{
 }
 .detail{
    display: grid;
+   column-gap: 40px;
    grid-template-columns: 1fr 1fr;
 }
 .detail span:nth-child(2){
