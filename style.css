@@ -108,10 +108,9 @@ section{
    position: relative;
    transition: all .3s ease;
 }
-@media screen and (max-width:610px){
+@media screen and (max-width:690px){
    .section-center article {
-      padding-bottom: 150px;
-      height: 440px;
+      height: 435px;
    }
 }
 .section-center article .card{
