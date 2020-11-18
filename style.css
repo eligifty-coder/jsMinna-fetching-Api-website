@@ -108,6 +108,11 @@ section{
    position: relative;
    transition: all .3s ease;
 }
+@media screen and (max-width:610px){
+   .section-center article {
+      padding-bottom: 150px;
+   }
+}
 .section-center article .card{
    position: absolute;
    width: 100%;
