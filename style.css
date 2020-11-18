@@ -100,7 +100,7 @@ section{
 }
 .section-center article{
    perspective: 1500px;
-   height: 480px;
+   height: 520px;
    width:100%;
    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
    border-radius: 15px;
@@ -110,7 +110,7 @@ section{
 }
 @media screen and (max-width:690px){
    .section-center article {
-      height: 545px;
+      height: 565px;
    }
 }
 .section-center article .card{
